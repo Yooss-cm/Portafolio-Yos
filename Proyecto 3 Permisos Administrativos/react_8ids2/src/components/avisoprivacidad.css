@@ -1,0 +1,50 @@
+
+/* Estilos del aviso de privacidad */
+.body_new {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f2f2f2; */
+    color: #333;
+    text-align: justify;
+    background-image: url("../../public/UttecAV.png");
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container_dos {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 2px solid gray;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.h1m {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.p_m {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.aa {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.aa:hover {
+    text-decoration: underline;
+}
+.logoo{
+    width: 60px;
+    height: 40px;
+}

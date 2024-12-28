@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "427428758277",
+    "project_id": "ycm-10ids2",
+    "storage_bucket": "ycm-10ids2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427428758277:android:0a08eba31139cf709dad6c",
+        "android_client_info": {
+          "package_name": "com.uttec.ycm.gastos.ycm_10ids2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiiEDlFSDCATWL03XSlosDL95SolW6cTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427428758277:android:c35ad60ca9d67c6b9dad6c",
+        "android_client_info": {
+          "package_name": "com.uttec.yos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiiEDlFSDCATWL03XSlosDL95SolW6cTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
